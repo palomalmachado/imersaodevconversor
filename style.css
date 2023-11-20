@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://res-4.cloudinary.com/dunz5zfpt/image/upload/f_auto,w_1400,q_auto:best/v1/blog-stone-prd/2023/04/Blog_Entenda-o-que---a-taxa-de-convers-o--1-");
+  background-color: #111111;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #qqqqqq;
+  margin: 0 0 3px;
+}
+
+.page-subtitle {
+  color: #8B0000;
+  margin-top: 0 0 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
